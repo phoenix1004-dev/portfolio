@@ -173,17 +173,31 @@ export const companies = [
 export const workExperience = [
   {
     id: 1,
-    title: "Blockchain Developer",
-    desc: "Build full-stack blockchain applications, from smart contracts to front-end interfaces using Solidity & React.js",
+    title: "NeoPass",
+    desc: "NeoPass is a unified account system designed to transform user interaction with Neopets. It enhances the gaming experience, strengthens security, and fosters community engagement. Key features include user management, enhanced security protocols, and community features to create a connected Neopia.",
     className: "md:col-span-2",
     thumbnail: "/exp1.svg",
   },
   {
     id: 2,
-    title: "Blockchain Intern",
-    desc: "Assisted in developing tokenomics for a new cryptocurrency project.",
+    title: "GAM (LMS Website)",
+    desc: "The LMS website project aims to create an online platform for a university. It facilitates course management, communication tools, content delivery, assessments, and progress tracking. The platform supports instructors in course creation and management, and students in browsing, enrolling, and interacting with courses.",
     className: "md:col-span-2", // change to md:col-span-2
     thumbnail: "/exp2.svg",
+  },
+  {
+    id: 3,
+    title: "Caprelo (Relocation Website)",
+    desc: "This website supports relocation needs for living, working, and thriving across a lifetime. It assists HR teams and employees in smooth transitions by offering relocation services, user management, and service selection options.",
+    className: "md:col-span-2", // change to md:col-span-2
+    thumbnail: "/exp2.svg",
+  },
+  {
+    id: 4,
+    title: "Agrimor (Agrimor Website)",
+    desc: "Agrimor Website manages plant data such as nutrient levels, height, and health status. It provides users with plant locations, analytics, and ownership information. The platform features a userfriendly interface for uploading images and data, as well as map integration for detailed field analysis.",
+    className: "md:col-span-2", // change to md:col-span-2
+    thumbnail: "/exp1.svg",
   },
 ];
 
