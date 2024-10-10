@@ -191,16 +191,16 @@ export const socialMedia = [
   {
     id: 1,
     img: "/git.svg",
-    link: "https://github.com/nirban256",
+    link: "#",
   },
   {
     id: 2,
     img: "/twit.svg",
-    link: "https://x.com/NirbanChakrab10",
+    link: "#",
   },
   {
     id: 3,
     img: "/link.svg",
-    link: "https://www.linkedin.com/in/nirban-chakraborty/",
+    link: "#",
   },
 ];
