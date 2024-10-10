@@ -35,7 +35,15 @@ const Hero = () => {
           />
 
           <p className="text-center md:tracking-wider mb-4 text-sm md:text-lg lg:text-2xl">
-            I&apos;m Lan Truong, a frontend developer based in Vietnam.
+            I&apos;m Lan Truong, based in Vietnam.
+            <br />I am a full-stack developer skilled in building dynamic web
+            applications using frontend technologies like Vue.js, React, and
+            Next.js, alongside backend development with Node.js.
+            <br />I focus on creating seamless, responsive user interfaces and
+            scalable, secure backend solutions.
+            <br /> With a passion for clean, efficient code and a commitment to
+            delivering high-quality results, I am always eager to take on new
+            challenges and stay updated with the latest industry trends.
           </p>
 
           <a href="#projects">
